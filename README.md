@@ -7,8 +7,9 @@ Obx dengan cita rasa dari seorang perogramer yang paling dalam
 ## Getting Started
 
 Package :
-      - get: ^4.6.5
-      - https://pub.dev/packages/get
+       get: ^4.6.5
+       
+       https://pub.dev/packages/get
 
 This project is a starting point for a Flutter application.
 
