@@ -1,8 +1,13 @@
 # dadu_app
 
-A new Flutter project.
+app dengan logika getx yang dipadukan dengan ui perfect sehingga menghasilkan
+
+Obx dengan cita rasa dari seorang perogramer yang paling dalam
 
 ## Getting Started
+
+Package :
+      - get: ^4.6.5
 
 This project is a starting point for a Flutter application.
 
