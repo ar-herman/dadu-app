@@ -16,3 +16,4 @@ Text Editor :
       
       https://code.visualstudio.com/
 
+https://github.com/ar-herman/dadu-app/issues/1#issue-1246549698
